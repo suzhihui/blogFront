@@ -1,13 +1,13 @@
 <template>
     <div class="profile">
         <p class="profile__title">个人简介</p>
-        <img class="profile__photo" src="../../../assets/profile.jpeg" />
+        <img class="profile__photo" src="../../../assets/profile.jpg" />
         <div class="profile__info">
-            <div>汪乐,</div>
-            <div>17年毕业于<a href="https://www.uestc.edu.cn/">电子科技大学，</a></div>
+            <div>苏智慧,</div>
+            <div>18年毕业于<a href="https://www.uestc.edu.cn/">北京理工大学，</a></div>
             <div></div>
-            <div>2929712050@qq.com</div>
-            <a class="profile__github" href="https://github.com/antbaobao">同性交友账号ANT1994</a>
+            <div>wisdon.su@163.com</div>
+            <a class="profile__github" target="_black" href="https://github.com/suzhihui">同性交友账号suzhihui</a>
         </div>
     </div>
 </template>

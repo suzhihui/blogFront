@@ -1,7 +1,7 @@
 {
-    "name": "ant-vue-blog-front-ssr",
-    "description": "Ant Blog",
-    "author": "ANT <2929712050@qq.com>",
+    "name": "laosu-vue-blog-front-ssr",
+    "description": "Laosu Blog",
+    "author": "laosu <wisdom.su@163.com>",
     "private": true,
     "scripts": {
         "dev": "node server",

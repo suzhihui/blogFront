@@ -3,7 +3,7 @@
         <header class="header">
             <nav class="header__inner">
                 <router-link to="/" exact>
-                    汪乐的个人网站
+                    老苏的个人网站
                 </router-link>
                 <!--<el-button class="header__search-btn">搜索</el-button>-->
                 <!--<el-input-->
